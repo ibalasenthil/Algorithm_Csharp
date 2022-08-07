@@ -1,0 +1,16 @@
+C:\Algorithm_Csharp\C#test\bin\Debug\net5.0\C#test.exe
+C:\Algorithm_Csharp\C#test\bin\Debug\net5.0\C#test.deps.json
+C:\Algorithm_Csharp\C#test\bin\Debug\net5.0\C#test.runtimeconfig.json
+C:\Algorithm_Csharp\C#test\bin\Debug\net5.0\C#test.runtimeconfig.dev.json
+C:\Algorithm_Csharp\C#test\bin\Debug\net5.0\C#test.dll
+C:\Algorithm_Csharp\C#test\bin\Debug\net5.0\ref\C#test.dll
+C:\Algorithm_Csharp\C#test\bin\Debug\net5.0\C#test.pdb
+C:\Algorithm_Csharp\C#test\obj\Debug\net5.0\C#test.csproj.AssemblyReference.cache
+C:\Algorithm_Csharp\C#test\obj\Debug\net5.0\C#test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algorithm_Csharp\C#test\obj\Debug\net5.0\C#test.AssemblyInfoInputs.cache
+C:\Algorithm_Csharp\C#test\obj\Debug\net5.0\C#test.AssemblyInfo.cs
+C:\Algorithm_Csharp\C#test\obj\Debug\net5.0\C#test.csproj.CoreCompileInputs.cache
+C:\Algorithm_Csharp\C#test\obj\Debug\net5.0\C#test.dll
+C:\Algorithm_Csharp\C#test\obj\Debug\net5.0\ref\C#test.dll
+C:\Algorithm_Csharp\C#test\obj\Debug\net5.0\C#test.pdb
+C:\Algorithm_Csharp\C#test\obj\Debug\net5.0\C#test.genruntimeconfig.cache
